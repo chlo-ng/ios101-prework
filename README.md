@@ -44,7 +44,8 @@ An app that generates a "main theme" for the day, depending on the user's mood
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+**Describe any challenges encountered while building the app.**
+
 Some challenges that I faced are not being able to control-drag the button to the ViewController class even with the Assistant view up.
 I admit that the way I figured this out was a fluke, but I believe that I will encounter this step again in the future while taking the class so I will continue to be vigilant and pay attention to how it works.
 
