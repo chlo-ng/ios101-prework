@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![](https://github.com/chlo-ng/ios101-prework/app_walkthrough.gif)
+![](https://github.com/chlo-ng/ios101-prework/blob/main/app_walkthrough.gif)
 
 ## App Brainstorming (Step 4)
 **3 applications that I like:**
